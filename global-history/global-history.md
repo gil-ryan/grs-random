@@ -24,7 +24,7 @@ Note that BC and BCE refer to the same time period. BCE is an abbreviation for B
 * Mahajanapadas, (India 600 - 300 BC)
 * Ancient Rome 753 BC - 476 AD)
 * Keeladi Tamil Civilization, (600 BC) <https://www.thenewsminute.com/article/major-discovery-tamil-nadu-s-keezhadi-possible-link-indus-valley-civilisation-109165></https://timesofindia.indiatimes.com/city/chennai/carbon-dating-confirms-keeladi-3-centuries-older/articleshow/71209468.cms>
-    Classical India (230 BC - 500 AD)
-    Six Dynasties (China, 220 AD–581 AD)
-        Three Kingdoms (China, 220–280)
-    Late Antiquity (Europe, circa 300 AD - circa 476 AD)
+     - Classical India (230 BC - 500 AD)
+     - Dynasties (China, 220 AD–581 AD)
+          - Three Kingdoms (China, 220–280)
+     - Late Antiquity (Europe, circa 300 AD - circa 476 AD)
