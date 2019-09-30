@@ -34,16 +34,16 @@ Note that BC and BCE refer to the same time period. BCE is an abbreviation for B
 
 The Postclassical Era, also referred to as the Medieval period or, for Europe, the Middle Ages, begins around 500 CE after the fall of major civilizations, covering the advent of Islam. The period ends around 1450–1500, with events like the rise of moveable-type printing in Europe, the voyages of Christopher Columbus, and the Ottoman Empire's conquest of Constantinople.
 
-    Middle Ages (Europe, 5th century - 15th century)
-        Early Middle Ages (Europe, 5th century - 11th century)
-        High Middle Ages (Europe, 11th century - 14th century)
-        Late Middle Ages (Europe, 14th century - 15th century)
-    Islamic Golden Age (Middle East, 750 – 1300)
-    Viking Age (Scandinavia, Europe, 793 - 1066)
-    Nara period (Japan, 709 - 795)
-    Period of Five Dynasties and Ten Kingdoms (China, 907 - 960)
-    Sengoku period (Japan, 1478–1605)
-    Middle kingdoms of India, (500 - 1206)
+* Middle Ages (Europe, 5th century - 15th century)
+    * Early Middle Ages (Europe, 5th century - 11th century)
+    * High Middle Ages (Europe, 11th century - 14th century)
+    * Late Middle Ages (Europe, 14th century - 15th century)
+* Islamic Golden Age (Middle East, 750 – 1300)
+* Viking Age (Scandinavia, Europe, 793 - 1066)
+* Nara period (Japan, 709 - 795)
+* Period of Five Dynasties and Ten Kingdoms (China, 907 - 960)
+* Sengoku period (Japan, 1478–1605)
+* Middle kingdoms of India, (500 - 1206)
 
 ## Modern history (1500 – present)
 
